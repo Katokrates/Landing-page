@@ -1,0 +1,49 @@
+.header{
+    background-color: #1F2937;
+    color: #F9FAF8;
+}
+
+.hero{
+    display: flex;
+    justify-content: space-between;
+}
+
+.link{
+    display: flex;
+    gap: 16px;
+}
+
+.headerText{
+    display: flex;
+    flex-direction: column;
+}
+
+.headerTwo{
+    display: flex;
+}
+
+#headerImg{
+    display: flex;
+}
+
+.bodyTitle{
+    display: flex;
+    justify-content: center;
+}
+
+.bigBlock{
+    display: flex;
+}
+
+.block{
+    display: flex;
+    flex-direction: column;
+}
+
+.quote{
+    background-color: #E5E7EB;
+    color: #1F2937;
+    font-style: italic;
+    display: flex;
+    flex-direction: column;
+}
